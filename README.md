@@ -4,5 +4,5 @@
 - 🌱 I’m learning all the time
 - 💬 Ask me about Elixir
 - 📫 andi@iboard.cc
-- 😄 Pronouns: me
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Musik, Benzin und Kuchen
